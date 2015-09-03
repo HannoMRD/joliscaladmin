@@ -1,2 +1,2 @@
 # joliscaladmin
-Scala Admin With Joli Admin as UI 
+Scala Admin With Joli UI 
