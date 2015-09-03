@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hanno/Development/joliadmin/conf/logback.xml,/home/hanno/Development/joliadmin/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/hanno/Development/joliadmin/conf/routes,/home/hanno/Development/joliadmin/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/hanno/Development/joliadmin/conf/application.conf,/home/hanno/Development/joliadmin/target/scala-2.11/classes/application.conf)[0m
